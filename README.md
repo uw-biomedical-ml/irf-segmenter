@@ -48,7 +48,20 @@ You must install the following Python packages:
 - Matplotlib
 - cv2
 
+`conda install --file requirements.txt`
+
+or
+
+`pip install -r requirements.txt`
+
+If having troubles with `import cv2`, try:
+
+`conda install --channel https://conda.anaconda.org/menpo opencv3`
+
 ## Installation
 
-git clone https://github.com/uw-biomedical-ml/irf-segmenter
+`git clone https://github.com/uw-biomedical-ml/irf-segmenter`
+
+
+
 
