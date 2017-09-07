@@ -30,9 +30,11 @@ Mask Blended image:
 ![input image example](https://github.com/uw-biomedical-ml/irf-segmenter/raw/master/output-mask_blend.png "output-mask_blend.png")
 
 Blended image:
+
 ![input image example](https://github.com/uw-biomedical-ml/irf-segmenter/raw/master/output-blend.png "output-blend.png")
 
 Binary Mask image:
+
 ![input image example](https://github.com/uw-biomedical-ml/irf-segmenter/raw/master/output-mask.png "output-mask.png")
 
 ## Requirements

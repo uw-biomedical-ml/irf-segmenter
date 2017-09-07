@@ -3,6 +3,6 @@ hdf5
 h5py
 pillow
 matplotlib
-keras==1.2.2 
-tensorflow=1.0.0
+keras==1.2.1 
+tensorflow=0.12.1
 
