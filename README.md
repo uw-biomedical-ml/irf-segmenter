@@ -41,9 +41,9 @@ Binary Mask image:
 
 You must install the following Python packages:
 
-- TensorFlow 
+- TensorFlow (0.12.1)
   - [See installation instructions](https://www.tensorflow.org/install/).
-- Keras
+- Keras (1.2.1)
   - [See installation instructions](https://github.com/fchollet/keras).
 - HDF5 and h5py
 - Pillow
