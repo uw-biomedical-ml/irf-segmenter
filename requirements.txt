@@ -4,5 +4,5 @@ h5py
 pillow
 matplotlib
 keras==1.2.1 
-tensorflow=0.12.1
+tensorflow==0.12.1
 
